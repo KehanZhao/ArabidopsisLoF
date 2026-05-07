@@ -83,9 +83,9 @@ The network is filtered to LoF genes with ≥10 significant expression associati
 |------|-----------|--------|
 | SNP & small indel calls | 1,135 | [1001 Genomes Project v3.1](https://1001genomes.org/data/GMI-MPI/releases/v3.1/1001genomes_snpeff_v3.1/) |
 | Structural variants & indels | 1,301 | [European Variation Archive — PRJEB38975](https://www.ebi.ac.uk/ena/browser/view/PRJEB38975) |
-| Gene expression (RNA-seq) | — | [Kawakatsu *et al*. 2016, *Cell* 166(2):492–505](http://dx.doi.org/10.1016/j.cell.2016.06.044) |
+| Gene expression (RNA-seq) | — | [Kawakatsu *et al*. 2016. *Cell* 166(2):492–505](http://dx.doi.org/10.1016/j.cell.2016.06.044) |
 | Kinship matrix | — | [1001 Genomes — SNP matrix (imputed HDF5)](https://1001genomes.org/data/GMI-MPI/releases/v3.1/SNP_matrix_imputed_hdf5/) |
-| Flowering time (FT10, FT16) | — | [1001 Genomes phenotype tables](http://1001genomes.org/tables/1001genomes-FT10-FT16_and_1001genomes-accessions.html) |
+| Flowering time (FT10, FT16) | — | [1001 Genomes Consortium. 2016. *Cell*. 166:481–491](http://dx.doi.org/10.1016/j.cell.2016.05.063) |
 
 ---
 

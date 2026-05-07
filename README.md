@@ -2,7 +2,7 @@
 
 Loss-of-function burden–gene expression association analyses in *Arabidopsis thaliana*
 
-Paper: 
+**Paper:** 
 Kehan Zhao, Mariele Lensink, J Grey Monroe, Functional insights into dispensable genes using genome-wide loss-of-function burden tests in Arabidopsis, The Plant Cell, Volume 38, Issue 4, April 2026, koag087, https://doi.org/10.1093/plcell/koag087
 
 ---

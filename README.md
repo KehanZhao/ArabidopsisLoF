@@ -60,7 +60,7 @@ Prior to testing, expression genes with zero variance are dropped, LoF genes wit
 
 > **Note:** Developed and tested under R 3.6.1 using the `cpgen` package. `cGWAS.emmax` may fail under R ≥ 4.2.
 
-**Key inputs:** `Expression_matrix_NAremoved_NaNreplaced`, `S1_LoF_matrix_collapsed.csv`, `kinship_ibs_mac5.hdf5`
+**Key inputs:** `Expression_matrix_NAremoved_NaNreplaced`, `LoF_matrix_collapsed.csv`, `kinship_ibs_mac5.hdf5`
 
 **Key outputs:** `pvalue_matrix_Exp`, `beta_matrix_Exp`, `marker_variance_Exp`, `residual_variance_Exp`
 
@@ -72,7 +72,7 @@ Builds and plots a directed gene network from significant LoF–expression assoc
 
 The network is filtered to LoF genes with ≥10 significant expression associations. Highlighted genes (all expression targets of *FRI* plus *FRI* itself) are rendered in orange with labels.
 
-**Key input:** `S5_LoF_burden_expression_significant_associations.csv`
+**Key input:** `LoF_burden_expression_significant_associations.csv`
 
 **Key output:** `LoF_exp_network.pdf`
 

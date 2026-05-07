@@ -24,7 +24,7 @@ Identifies loss-of-function variants in *A. thaliana* from two sources and merge
 
 **Source 2 — High-impact SNPs/indels from the 1001 Genomes Project:** High-impact variants (pre-filtered with SnpEff's `HIGH` impact flag) are parsed for frameshift and stop-gain annotations. The same 5–95% CDS filter is applied. Multi-allelic sites are expanded to one row per alternate allele before genotype calling.
 
-The two resulting matrices are intersected on shared accessions and combined into a single binary presence/absence matrix (`LoF_matrix_collapsed.csv`).
+The two resulting matrices are intersected on shared accessions and combined into a single binary LoF matrix (`LoF_matrix_collapsed.csv`).
 
 > **Note:** `LoF_calling.R` is specifically tailored for the Arabidopsis TAIR10 annotation and the datasets described in the paper. For a universal LoF caller, see [LoFMatrixBuilder](https://github.com/KehanZhao/LoFMatrixBuilder).
 

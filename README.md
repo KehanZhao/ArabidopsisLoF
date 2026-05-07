@@ -69,7 +69,7 @@ Prior to testing, expression genes with zero variance are dropped, LoF genes wit
 
 Builds and plots a directed gene network from significant LoF–expression associations. Edges point from LoF gene (source, circle node) to expression gene (target, square node) and are colored by direction of effect: pink for positive β and blue for negative β.
 
-The network is filtered to LoF genes with ≥10 significant expression associations. Highlighted genes (all expression targets of *FRI* (AT4G00650) plus *FRI* itself) are rendered in orange with labels.
+The network is filtered to LoF genes with ≥10 significant expression associations. Highlighted genes (all expression targets of *FRI* plus *FRI* itself) are rendered in orange with labels.
 
 **Key input:** `S5_LoF_burden_expression_significant_associations.csv`
 
